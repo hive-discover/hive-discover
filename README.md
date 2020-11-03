@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+<img src="Logo/stacked_logo.svg" width="50%"/>
+</p>
+
+### Hi there 👋,
+here you can find every single code file which plays a role in our project. Have a look at them!
+
+
 
 <!--
 **hive-discover/hive-discover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
