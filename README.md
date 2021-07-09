@@ -12,4 +12,8 @@ Because of the backend blockchain architecture, all posts are gatherable directl
 We can also request all votes by an account and therefore we can compare the liked content with all other posts. As a result we get similar content like they voted on. How this is done technically can be found in our [Backend-Repo](https://github.com/hive-discover/Hive-Discover-Backend). 
 
 
+<br/><br/>
+<br/><br/>
 
+
+**Attention**: All posts visible on Hive Discover do not originate from us. They are written by unknown HIVE users who are not checked by us. We therefore do not take any responsibility for the posts. Nevertheless, it is possible to ban posts or authors permanently. For such a request, please contact us!
