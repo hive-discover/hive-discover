@@ -11,6 +11,8 @@ Because of the backend blockchain architecture, all posts are gatherable directl
 
 We can also request all votes by an account and therefore we can compare the liked content with all other posts. As a result we get similar content like they voted on. How this is done technically can be found in our [Backend-Repo](https://github.com/hive-discover/Hive-Discover-Backend). 
 
+### License of our software:
+All projects/files and repos that are open-sourced through this GitHub Account are licensed under the [**MIT Licence**](https://choosealicense.com/licenses/mit/).
 
 <br/><br/>
 <br/><br/>
